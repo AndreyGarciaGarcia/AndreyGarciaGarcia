@@ -40,12 +40,6 @@
 
 ---
 
-## 📝 Blog Personal
-
-Si quieres conocer más sobre mi enfoque en desarrollo y mis aprendizajes en este campo, visita mi [blog personal](https://medium.com/@andreygg). En él, comparto conocimientos sobre programación y gestión de bases de datos, así como trucos y mejores prácticas.
-
----
-
 ## 📫 Conectemos
 
 <p align="center">
@@ -60,4 +54,3 @@ Si quieres conocer más sobre mi enfoque en desarrollo y mis aprendizajes en est
 ---
 
 Gracias por visitar mi perfil. ¡Espero que encuentres algo inspirador en mi trabajo y aprendizaje! 🚀
-
