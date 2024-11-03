@@ -1,6 +1,7 @@
 # 👨‍💻 Andrey Garcia Garcia
 
-![Banner](https://www.canva.com/design/DAGUkpNe_bw/mqiG1yH7aBa5EGTFEUIpVg/edit?utm_content=DAGUkpNe_bw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+![Banner](![Foto de fondo de LinkedIn Modelo Minimalista Beige Negro](https://github.com/user-attachments/assets/2e249401-2f0e-4580-8b20-f4f662028e3c)
+)
 
 ¡Hola! Soy **Andrey Garcia Garcia**, un desarrollador en formación en el ámbito de **Desarrollo de Aplicaciones Web (DAM)**. Actualmente me especializo en **Java** y **bases de datos** con el objetivo de crear soluciones eficientes y escalables.
 
