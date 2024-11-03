@@ -1,6 +1,6 @@
 # 👨‍💻 Andrey Garcia Garcia
 
-![Banner](https://github.com/user-attachments/assets/4f330ac2-091f-4b15-af7a-2d1413592096)
+![Banner](https://www.canva.com/design/DAGUkpNe_bw/mqiG1yH7aBa5EGTFEUIpVg/edit?utm_content=DAGUkpNe_bw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ¡Hola! Soy **Andrey Garcia Garcia**, un desarrollador en formación en el ámbito de **Desarrollo de Aplicaciones Web (DAM)**. Actualmente me especializo en **Java** y **bases de datos** con el objetivo de crear soluciones eficientes y escalables.
 
