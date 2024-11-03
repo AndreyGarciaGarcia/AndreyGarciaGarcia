@@ -1,42 +1,52 @@
-# ¡Hola, soy Andrey Garcia Garcia! 👋
+# 🌌 Bienvenidos al Universo de Andrey 🌌
 
-![Banner](https://github.com/user-attachments/assets/4f330ac2-091f-4b15-af7a-2d1413592096) <!-- Reemplaza con la URL de tu imagen de banner personalizada -->
+![Banner](https://github.com/user-attachments/assets/4f330ac2-091f-4b15-af7a-2d1413592096) <!-- Sustituye con tu propio banner personalizado -->
 
-## 💻 Bienvenido a mi perfil de GitHub
-Soy un desarrollador apasionado, actualmente estudiando **Desarrollo de Aplicaciones Web (DAM)**. Me motiva explorar nuevas tecnologías y trabajar en proyectos creativos.
-
----
-
-## 🚀 Sobre mí
-
-![Aprendiendo](https://img.icons8.com/color/50/000000/student-center.png) **Aprendizaje Actual:** Estoy avanzando en **Java** y mejorando en **normalización de bases de datos**.
-
-![Habilidades](https://img.icons8.com/color/50/000000/checked.png) **Habilidades:** Domino **HTML** y **CSS** y estoy perfeccionando mis conocimientos en **Java**.
-
-🎯 **Objetivo:** Aspiro a dominar la programación y resolver problemas complejos con creatividad.
+## 🔭 Explorador en Formación
+¡Hola! Soy **Andrey Garcia Garcia**, un explorador del vasto universo de la **Desarrollo de Aplicaciones Web (DAM)**. Aquí, cada línea de código es una estrella y cada proyecto es un nuevo planeta en mi galaxia de aprendizaje. Estoy en una misión para entender Java, mejorar bases de datos y diseñar soluciones innovadoras.
 
 ---
 
-## 🔧 Tecnologías y Herramientas
+## 🚀 Navegación por Mi Galaxia
 
-![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png) ![HTML](https://img.icons8.com/color/48/000000/html-5--v1.png) ![CSS](https://img.icons8.com/color/48/000000/css3.png)  
-**Lenguajes:** Java, HTML, CSS
-
-![Eclipse](https://img.icons8.com/ios-filled/50/000000/eclipse.png) ![GitHub](https://img.icons8.com/glyph-neue/48/000000/github.png)  
-**Herramientas:** Eclipse, GitHub
-
----
-
-## 🌟 Proyectos Actuales
-
-| Proyecto             | Descripción                                                                                       |
-|----------------------|---------------------------------------------------------------------------------------------------|
-| 📚 **Algoritmo de Biblioteca** | Un proyecto centrado en mejorar la funcionalidad y experiencia de usuario.                   |
-| ➗ **Calculadora**           | Un proyecto práctico para desarrollar habilidades de programación en Java.                    |
+| 🌠 **Galaxia de Habilidades**      | | ✨ **Planetas de Exploración Activa** |
+|------------------------------------|------------------------------------|
+| ☀️ HTML y CSS | 🪐 **Algoritmo de Biblioteca**<br>Creando un sistema de biblioteca interactivo, enfocado en experiencia de usuario. |
+| ☄️ Java | 🌌 **Calculadora**<br>Un viaje a través de operaciones básicas y conceptos avanzados de programación en Java. |
 
 ---
 
-## 📫 Cómo Contactarme
+## 🌌 Tecnología que Utilizo para Navegar
+
+<details>
+  <summary><b>🛠️ Lenguajes y Herramientas</b></summary>
+  
+  - **Lenguajes:**  
+    - ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png) Java  
+    - ![HTML](https://img.icons8.com/color/48/000000/html-5--v1.png) HTML  
+    - ![CSS](https://img.icons8.com/color/48/000000/css3.png) CSS  
+
+  - **Herramientas de Navegación:**  
+    - ![Eclipse](https://img.icons8.com/ios-filled/50/000000/eclipse.png) Eclipse  
+    - ![GitHub](https://img.icons8.com/glyph-neue/48/000000/github.png) GitHub  
+</details>
+
+---
+
+## 🧩 Mis Componentes Únicos
+
+<div style="background-color:#282c34; color:white; padding:10px; border-radius:10px;">
+  
+  - 🏗️ **Construyendo:** Un futuro como desarrollador creativo
+  - 🌱 **Cultivando:** Mis conocimientos en bases de datos y programación
+  - 🧠 **Pensamiento:** Resolver problemas complejos de manera innovadora
+  - 🏀 **Datos Curiosos:** Soy alto, de cabello negro y me encanta aprender sin rendirme
+  
+</div>
+
+---
+
+## 📬 Contacto Estelar
 
 <p align="center">
   <a href="https://www.linkedin.com/in/andrey-garcia-garcia-8ba29b302" target="_blank">
@@ -49,12 +59,14 @@ Soy un desarrollador apasionado, actualmente estudiando **Desarrollo de Aplicaci
 
 ---
 
-## 🌍 Curiosidades
+## 👾 Cierre del Archivo
 
-- 🏀 Soy alto y tengo el pelo negro.
-- 💡 Me encanta enfrentar desafíos y nunca me rindo en el aprendizaje.
-
----
-
-Gracias por visitar mi perfil 🚀, ¡nos vemos en los proyectos!
-
+```plaintext
+  __________________
+< ¡Gracias por visitar mi galaxia! >
+  ------------------
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
