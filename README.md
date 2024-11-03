@@ -1,4 +1,4 @@
-# 👋 Hola, soy Andrey Garcia Garcia 
+#            Hola, soy Andrey Garcia Garcia 👋
 ![Banner](https://github.com/user-attachments/assets/4f330ac2-091f-4b15-af7a-2d1413592096) <!-- Reemplaza con la URL de tu imagen de banner -->
 ¡Bienvenido a mi perfil de GitHub! Soy un desarrollador apasionado, actualmente estudiando **Desarrollo de Aplicaciones Web (DAM)**. Disfruto explorar nuevas tecnologías y crear proyectos interesantes.
 
