@@ -1,72 +1,63 @@
-# 🌌 Bienvenidos al Universo de Andrey 🌌
+# 👨‍💻 Andrey Garcia Garcia
 
-![Banner](https://github.com/user-attachments/assets/4f330ac2-091f-4b15-af7a-2d1413592096) <!-- Sustituye con tu propio banner personalizado -->
+![Banner](https://github.com/user-attachments/assets/4f330ac2-091f-4b15-af7a-2d1413592096) <!-- Cambia la URL por tu propia imagen de banner profesional -->
 
-## 🔭 Explorador en Formación
-¡Hola! Soy **Andrey Garcia Garcia**, un explorador del vasto universo de la **Desarrollo de Aplicaciones Web (DAM)**. Aquí, cada línea de código es una estrella y cada proyecto es un nuevo planeta en mi galaxia de aprendizaje. Estoy en una misión para entender Java, mejorar bases de datos y diseñar soluciones innovadoras.
-
----
-
-## 🚀 Navegación por Mi Galaxia
-
-| 🌠 **Galaxia de Habilidades**      | | ✨ **Planetas de Exploración Activa** |
-|------------------------------------|------------------------------------|
-| ☀️ HTML y CSS | 🪐 **Algoritmo de Biblioteca**<br>Creando un sistema de biblioteca interactivo, enfocado en experiencia de usuario. |
-| ☄️ Java | 🌌 **Calculadora**<br>Un viaje a través de operaciones básicas y conceptos avanzados de programación en Java. |
+¡Hola! Soy **Andrey Garcia Garcia**, un desarrollador en formación en el ámbito de **Desarrollo de Aplicaciones Web (DAM)**. Actualmente me especializo en **Java** y **bases de datos** con el objetivo de crear soluciones eficientes y escalables.
 
 ---
 
-## 🌌 Tecnología que Utilizo para Navegar
+## 📌 Sobre mí
 
-<details>
-  <summary><b>🛠️ Lenguajes y Herramientas</b></summary>
-  
-  - **Lenguajes:**  
-    - ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png) Java  
-    - ![HTML](https://img.icons8.com/color/48/000000/html-5--v1.png) HTML  
-    - ![CSS](https://img.icons8.com/color/48/000000/css3.png) CSS  
-
-  - **Herramientas de Navegación:**  
-    - ![Eclipse](https://img.icons8.com/ios-filled/50/000000/eclipse.png) Eclipse  
-    - ![GitHub](https://img.icons8.com/glyph-neue/48/000000/github.png) GitHub  
-</details>
+- 🎓 **Estudiante de DAM**
+- 🌱 **Aprendiendo:** Java, Normalización de Bases de Datos
+- 💡 **Intereses:** Desarrollo Web, Diseño de Algoritmos, Optimización de Código
+- 🏆 **Objetivo Profesional:** Alcanzar un nivel avanzado en desarrollo de software y resolver problemas complejos de manera innovadora.
 
 ---
 
-## 🧩 Mis Componentes Únicos
+## 🛠️ Habilidades Técnicas
 
-<div style="background-color:#282c34; color:white; padding:10px; border-radius:10px;">
-  
-  - 🏗️ **Construyendo:** Un futuro como desarrollador creativo
-  - 🌱 **Cultivando:** Mis conocimientos en bases de datos y programación
-  - 🧠 **Pensamiento:** Resolver problemas complejos de manera innovadora
-  - 🏀 **Datos Curiosos:** Soy alto, de cabello negro y me encanta aprender sin rendirme
-  
+<div align="center">
+  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" height="40"/>
 </div>
 
+| **Lenguajes**            | Java, HTML, CSS         |
+|--------------------------|-------------------------|
+| **Herramientas**         | Eclipse, GitHub         |
+| **Sistemas Operativos**  | Windows, Linux          |
+
 ---
 
-## 📬 Contacto Estelar
+## 🚀 Proyectos Actuales
+
+### 📚 Algoritmo de Biblioteca
+> Sistema de gestión de biblioteca enfocado en mejorar la experiencia del usuario y la funcionalidad.
+
+### ➗ Calculadora
+> Proyecto en Java para el desarrollo de habilidades de programación y lógica.
+
+---
+
+## 📝 Blog Personal
+
+Si quieres conocer más sobre mi enfoque en desarrollo y mis aprendizajes en este campo, visita mi [blog personal](https://medium.com/@andreygg). En él, comparto conocimientos sobre programación y gestión de bases de datos, así como trucos y mejores prácticas.
+
+---
+
+## 📫 Conectemos
 
 <p align="center">
   <a href="https://www.linkedin.com/in/andrey-garcia-garcia-8ba29b302" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png"/>
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/>
   </a>
   <a href="mailto:andreygg300@gmail.com">
-    <img src="https://img.icons8.com/color/48/000000/gmail--v1.png"/>
+    <img src="https://img.icons8.com/color/48/000000/gmail--v1.png" alt="Email"/>
   </a>
 </p>
 
 ---
 
-## 👾 Cierre del Archivo
+Gracias por visitar mi perfil. ¡Espero que encuentres algo inspirador en mi trabajo y aprendizaje! 🚀
 
-```plaintext
-  __________________
-< ¡Gracias por visitar mi galaxia! >
-  ------------------
-        \   ^__^
-         \  (oo)\_______
-            (__)\       )\/\
-                ||----w |
-                ||     ||
