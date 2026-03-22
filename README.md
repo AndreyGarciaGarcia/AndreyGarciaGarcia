@@ -32,12 +32,6 @@
 
 ## 🚀 Proyectos Actuales
 
-### 📚 Algoritmo de Biblioteca
-> Sistema de gestión de biblioteca enfocado en mejorar la experiencia del usuario y la funcionalidad.
-
-### ➗ Calculadora
-> Proyecto en Java para el desarrollo de habilidades de programación y lógica.
-
 ---
 
 ## 📫 Conectemos
