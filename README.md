@@ -38,11 +38,11 @@ Busco mi **primera oportunidad estable** donde seguir creciendo junto a un equip
 
 ## 🎓 Formación
 
-| Titulación | Centro | Estado |
+| Titulación | Estado |
 |---|---|---|
-| **Técnico Superior — Desarrollo de Aplicaciones Multiplataforma** | TEIDE IV, Madrid | ✅ Completado |
-| **Técnico en Sistemas Microinformáticos y Redes** | TEIDE IV, Madrid | ✅ Completado |
-| **Educación Secundaria Obligatoria** | CEPA Canillejas / José Luis San Pedro | ✅ Completado |
+| **Técnico Superior — Desarrollo de Aplicaciones Multiplataforma** | ✅ Completado |
+| **Técnico en Sistemas Microinformáticos y Redes** | ✅ Completado |
+| **Educación Secundaria Obligatoria** | ✅ Completado |
 
 > 🗺️ **DAM en detalle**: Programación orientada a objetos · Desarrollo Android · JavaFX/Swing · HTML/CSS/JS/PHP · MySQL · APIs REST · Git · XML/JSON
 
