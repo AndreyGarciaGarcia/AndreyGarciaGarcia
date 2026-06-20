@@ -39,7 +39,7 @@ Busco mi **primera oportunidad estable** donde seguir creciendo junto a un equip
 ## 🎓 Formación
 
 | Titulación | Estado |
-|---|---|---|
+|---|:---:|
 | **Técnico Superior — Desarrollo de Aplicaciones Multiplataforma** | ✅ Completado |
 | **Técnico en Sistemas Microinformáticos y Redes** | ✅ Completado |
 | **Educación Secundaria Obligatoria** | ✅ Completado |
